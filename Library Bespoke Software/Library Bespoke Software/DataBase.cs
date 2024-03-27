@@ -11,8 +11,8 @@ namespace Login_Interface
     class DataBase
 
     {
-        protected const String DB_IP = "10.207.71.1,1433"; //IPv4 
-        //protected const String DB_IP = "192.168.0.147,1433"; //IPv4 
+        protected const String DB_IP = ""; //IPv4 
+        //protected const String DB_IP = ""; //IPv4 
 
         protected SqlConnection conn;
 
@@ -22,8 +22,8 @@ namespace Login_Interface
             var datasource = $@"{DB_IP}\SQLEXPRESS;Network Library=DBMSSOCN";// server
 
             var database = "LibraryBespokeSoftware"; // database name
-            var username = "sa"; //username 
-            var password = "arman"; //password
+            var username = ""; //username 
+            var password = ""; //password
 
             // connection string 
             string connString = @"Data Source=" + datasource + ";Initial Catalog="
