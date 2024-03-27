@@ -1,0 +1,40 @@
+﻿<Window x:Class="Login_Interface.AccountAddedMessage"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Login_Interface"
+        mc:Ignorable="d"
+        WindowStartupLocation="CenterScreen"
+        WindowStyle="None"
+        Mouse.MouseDown="Window_MouseDown"
+        Background="Transparent"
+        Title="AccountAddedMessage" Height="220" Width="400">
+
+    <Border CornerRadius="20" Background="Blue">
+        <Grid>
+            <StackPanel VerticalAlignment="Center" HorizontalAlignment="Center">
+                <TextBlock Text="Account Created"
+                           FontWeight="Bold"
+                           FontStyle="Normal"
+                           FontFamily="Fonts/NotoSerif-Bold.ttf #Noto Serif"
+                           FontSize="30"
+                           Foreground="White"
+                           HorizontalAlignment="Center"
+                           VerticalAlignment="Center"/>
+                <TextBlock Text="Successfully"
+                           FontWeight="Bold"
+                           FontStyle="Normal"
+                           FontFamily="Fonts/NotoSerif-Bold.ttf #Noto Serif"
+                           FontSize="30"
+                           Foreground="White"
+                           HorizontalAlignment="Center"
+                           VerticalAlignment="Center"/>
+
+            </StackPanel>
+            
+
+        </Grid>
+    </Border>
+    
+</Window>

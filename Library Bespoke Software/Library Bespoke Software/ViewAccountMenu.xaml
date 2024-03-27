@@ -1,0 +1,74 @@
+﻿<Page x:Class="Login_Interface.ViewAccountMenu"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:Login_Interface"
+      mc:Ignorable="d" 
+      Background="Transparent"
+      d:DesignHeight="450" d:DesignWidth="800"
+      Title="ViewAccountMenu">
+
+
+
+    <Page.Resources>
+        
+        
+        
+    </Page.Resources>
+
+
+
+        <Grid>
+            <Button x:Name="Back_button"
+                        Width="100" Height="40" 
+                        Style ="{StaticResource style1}"
+                        FontSize="15"
+                        FontWeight="Heavy"
+                        Content="Back"  
+                    VerticalAlignment="Top" HorizontalAlignment="Left" Margin="20,0,0,0" Click="Back_button_Click"
+                       />
+
+            <TextBlock Height="100" Width="500" VerticalAlignment="Top" HorizontalAlignment="Center"
+                       Margin="0,0,10,0" Text="View Account Database" TextAlignment="Center" 
+                       FontStyle="Italic" FontWeight="Bold" Foreground="White" FontSize="40">
+            </TextBlock>
+            <TextBlock Height="100" Width="500" VerticalAlignment="Top" HorizontalAlignment="Center"
+                       Margin="0,5,10,0" Text="View Account Database" TextAlignment="Center" 
+                       FontStyle="Italic" FontWeight="Bold" Foreground="Orange" FontSize="40">
+            </TextBlock>
+
+
+           
+
+
+
+
+
+
+        <Frame x:Name="ViewAccountTableFrame"  Margin="0,50,0,0">
+            
+            
+            
+        </Frame>
+
+        <Button x:Name="View_Staff_Accounts"
+                        Width="160" Height="50" 
+                        Style ="{StaticResource style1}"
+                        FontSize="15"
+                        FontWeight="Heavy"
+                        Content="View Staff Accounts"  
+                    VerticalAlignment="Top" HorizontalAlignment="Left" Margin="20,70,0,0" Click="View_Staff_Accounts_Click" 
+                       />
+        <Button x:Name="View_Member_Accounts"
+                        Width="190" Height="50" 
+                        Style ="{StaticResource style1}"
+                        FontSize="15"
+                        FontWeight="Heavy"
+                        Content="View Member Accounts"  
+                    VerticalAlignment="Top" HorizontalAlignment="Center" Margin="0,70,0,0" Click="View_Member_Accounts_Click" 
+                       />
+
+
+    </Grid>
+</Page>

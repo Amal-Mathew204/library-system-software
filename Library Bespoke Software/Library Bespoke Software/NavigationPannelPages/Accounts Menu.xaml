@@ -1,0 +1,80 @@
+﻿<Page x:Class="Login_Interface.Accounts_Menu"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:Login_Interface"
+      mc:Ignorable="d" 
+      Background="Transparent"
+      d:DesignHeight="450" d:DesignWidth="800"
+      Title="Accounts_Menu">
+
+    <Grid>
+        <TextBlock Height="100" Width="700" VerticalAlignment="Top" HorizontalAlignment="Center"
+                   Margin="0,25,0,0" Text="Account Database Management" TextAlignment="Center" 
+                   FontStyle="Italic" FontWeight="Bold" Foreground="White" FontSize="45">
+        </TextBlock>
+        <TextBlock Height="100" Width="700" VerticalAlignment="Top" HorizontalAlignment="Center"
+                   Margin="0,30,0,0" Text="Account Database Management" TextAlignment="Center" 
+                   FontStyle="Italic" FontWeight="Bold" Foreground="Orange" FontSize="45">
+        </TextBlock>
+
+
+
+        <Button x:Name="ViewAccounts_button"
+                    Width="250" Height="50" 
+                    Style ="{StaticResource style1}"
+                    FontSize="18"
+                    FontWeight="Heavy"
+                    Content="View Account Database" 
+                    VerticalAlignment="Center" HorizontalAlignment="Center"
+            Margin="0,0,0,0" Click="ViewAccounts_button_Click" />
+        <StackPanel  Orientation="Horizontal"
+                     VerticalAlignment="Center" HorizontalAlignment="Center" 
+                     Margin="0,125,0,0">
+
+            <Button x:Name="AddAccount_button"
+                    Width="150" Height="45" 
+                    Style ="{StaticResource style1}"
+                    FontSize="15"
+                    FontWeight="Heavy"
+                    Content="ADD ACCOUNT" 
+                    VerticalAlignment="Center" HorizontalAlignment="Left"
+                Margin="0,0,50,0" Click="AddAccount_button_Click"/>
+
+            <Button x:Name="DeleteAccount_button"
+                    Width="160" Height="45" 
+                    Style ="{StaticResource style1}"
+                    FontSize="15"
+                    FontWeight="Heavy"
+                    Content="DELETE ACCOUNT" Click="DeleteAccount_button_Click" 
+                   />
+
+            <Button x:Name="EditAccount_button"
+                    Width="150" Height="45" 
+                    Style ="{StaticResource style1}"
+                    FontSize="15"
+                    FontWeight="Heavy"
+                    Content="EDIT ACCOUNT" 
+                    Margin="50,0,0,0" Click="EditAccount_button_Click" />
+
+
+
+
+        </StackPanel>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    </Grid>
+</Page>

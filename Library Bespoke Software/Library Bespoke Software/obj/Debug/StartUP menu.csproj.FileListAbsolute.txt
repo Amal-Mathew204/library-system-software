@@ -1,0 +1,134 @@
+C:\Users\amalm\source\repos\StartUP menu\StartUP menu\bin\Debug\Login Interface.exe.config
+C:\Users\amalm\source\repos\StartUP menu\StartUP menu\bin\Debug\Login Interface.exe
+C:\Users\amalm\source\repos\StartUP menu\StartUP menu\bin\Debug\Login Interface.pdb
+C:\Users\amalm\source\repos\StartUP menu\StartUP menu\obj\Debug\StartUP menu.csproj.AssemblyReference.cache
+C:\Users\amalm\source\repos\StartUP menu\StartUP menu\obj\Debug\MainWindow.g.cs
+C:\Users\amalm\source\repos\StartUP menu\StartUP menu\obj\Debug\Window1.g.cs
+C:\Users\amalm\source\repos\StartUP menu\StartUP menu\obj\Debug\App.g.cs
+C:\Users\amalm\source\repos\StartUP menu\StartUP menu\obj\Debug\Login Interface_MarkupCompile.cache
+C:\Users\amalm\source\repos\StartUP menu\StartUP menu\obj\Debug\Login Interface_MarkupCompile.lref
+C:\Users\amalm\source\repos\StartUP menu\StartUP menu\obj\Debug\MainWindow.baml
+C:\Users\amalm\source\repos\StartUP menu\StartUP menu\obj\Debug\Window1.baml
+C:\Users\amalm\source\repos\StartUP menu\StartUP menu\obj\Debug\Login Interface.g.resources
+C:\Users\amalm\source\repos\StartUP menu\StartUP menu\obj\Debug\Login_Interface.Properties.Resources.resources
+C:\Users\amalm\source\repos\StartUP menu\StartUP menu\obj\Debug\StartUP menu.csproj.GenerateResource.cache
+C:\Users\amalm\source\repos\StartUP menu\StartUP menu\obj\Debug\StartUP menu.csproj.CoreCompileInputs.cache
+C:\Users\amalm\source\repos\StartUP menu\StartUP menu\obj\Debug\Login Interface.exe
+C:\Users\amalm\source\repos\StartUP menu\StartUP menu\obj\Debug\Login Interface.pdb
+C:\Users\amalm\source\repos\StartUP menu\StartUP menu\bin\Debug\MahApps.Metro.IconPacks.Core.dll
+C:\Users\amalm\source\repos\StartUP menu\StartUP menu\bin\Debug\MahApps.Metro.IconPacks.Material.dll
+C:\Users\amalm\source\repos\StartUP menu\StartUP menu\bin\Debug\MahApps.Metro.IconPacks.Core.pdb
+C:\Users\amalm\source\repos\StartUP menu\StartUP menu\bin\Debug\MahApps.Metro.IconPacks.Core.xml
+C:\Users\amalm\source\repos\StartUP menu\StartUP menu\bin\Debug\MahApps.Metro.IconPacks.Material.pdb
+C:\Users\amalm\source\repos\StartUP menu\StartUP menu\bin\Debug\MahApps.Metro.IconPacks.Material.xml
+C:\Users\amalm\source\repos\StartUP menu\StartUP menu\obj\Debug\StartUP menu.csproj.CopyComplete
+C:\Users\amalm\source\repos\StartUP menu\StartUP menu\obj\Debug\ButtonTheme.baml
+C:\Users\amalm\source\repos\StartUP menu\StartUP menu\obj\Debug\App.baml
+C:\Users\amalm\source\repos\StartUP menu\StartUP menu\obj\Debug\StaffLogin.g.cs
+C:\Users\amalm\source\repos\StartUP menu\StartUP menu\obj\Debug\StaffLogin.baml
+C:\Users\amalm\source\repos\StartUP menu\StartUP menu\obj\Debug\Member Main Menu.g.cs
+C:\Users\amalm\source\repos\StartUP menu\StartUP menu\obj\Debug\Member Main Menu.baml
+C:\Users\amalm\source\repos\StartUP menu\StartUP menu\obj\Debug\Staff Main Menu.g.cs
+C:\Users\amalm\source\repos\StartUP menu\StartUP menu\obj\Debug\Staff Main Menu.baml
+H:\StartUP menu\StartUP menu\bin\Debug\Login Interface.exe.config
+H:\StartUP menu\StartUP menu\bin\Debug\Login Interface.exe
+H:\StartUP menu\StartUP menu\bin\Debug\Login Interface.pdb
+H:\StartUP menu\StartUP menu\bin\Debug\MahApps.Metro.IconPacks.Core.dll
+H:\StartUP menu\StartUP menu\bin\Debug\MahApps.Metro.IconPacks.Material.dll
+H:\StartUP menu\StartUP menu\bin\Debug\MahApps.Metro.IconPacks.Core.pdb
+H:\StartUP menu\StartUP menu\bin\Debug\MahApps.Metro.IconPacks.Core.xml
+H:\StartUP menu\StartUP menu\bin\Debug\MahApps.Metro.IconPacks.Material.pdb
+H:\StartUP menu\StartUP menu\bin\Debug\MahApps.Metro.IconPacks.Material.xml
+H:\StartUP menu\StartUP menu\obj\Debug\StartUP menu.csproj.AssemblyReference.cache
+H:\StartUP menu\StartUP menu\obj\Debug\ButtonTheme.baml
+H:\StartUP menu\StartUP menu\obj\Debug\MainWindow.g.cs
+H:\StartUP menu\StartUP menu\obj\Debug\Member Main Menu.g.cs
+H:\StartUP menu\StartUP menu\obj\Debug\Staff Main Menu.g.cs
+H:\StartUP menu\StartUP menu\obj\Debug\StaffLogin.g.cs
+H:\StartUP menu\StartUP menu\obj\Debug\Window1.g.cs
+H:\StartUP menu\StartUP menu\obj\Debug\App.g.cs
+H:\StartUP menu\StartUP menu\obj\Debug\Login Interface_MarkupCompile.cache
+H:\StartUP menu\StartUP menu\obj\Debug\Login Interface_MarkupCompile.lref
+H:\StartUP menu\StartUP menu\obj\Debug\App.baml
+H:\StartUP menu\StartUP menu\obj\Debug\MainWindow.baml
+H:\StartUP menu\StartUP menu\obj\Debug\Member Main Menu.baml
+H:\StartUP menu\StartUP menu\obj\Debug\Staff Main Menu.baml
+H:\StartUP menu\StartUP menu\obj\Debug\StaffLogin.baml
+H:\StartUP menu\StartUP menu\obj\Debug\Window1.baml
+H:\StartUP menu\StartUP menu\obj\Debug\Login Interface.g.resources
+H:\StartUP menu\StartUP menu\obj\Debug\Login_Interface.Properties.Resources.resources
+H:\StartUP menu\StartUP menu\obj\Debug\StartUP menu.csproj.GenerateResource.cache
+H:\StartUP menu\StartUP menu\obj\Debug\StartUP menu.csproj.CoreCompileInputs.cache
+H:\StartUP menu\StartUP menu\obj\Debug\StartUP menu.csproj.CopyComplete
+H:\StartUP menu\StartUP menu\obj\Debug\Login Interface.exe
+H:\StartUP menu\StartUP menu\obj\Debug\Login Interface.pdb
+E:\StartUP menu\StartUP menu\bin\Debug\Login Interface.exe.config
+E:\StartUP menu\StartUP menu\bin\Debug\Login Interface.exe
+E:\StartUP menu\StartUP menu\bin\Debug\Login Interface.pdb
+E:\StartUP menu\StartUP menu\bin\Debug\MahApps.Metro.IconPacks.Core.dll
+E:\StartUP menu\StartUP menu\bin\Debug\MahApps.Metro.IconPacks.Material.dll
+E:\StartUP menu\StartUP menu\bin\Debug\MahApps.Metro.IconPacks.Core.pdb
+E:\StartUP menu\StartUP menu\bin\Debug\MahApps.Metro.IconPacks.Core.xml
+E:\StartUP menu\StartUP menu\bin\Debug\MahApps.Metro.IconPacks.Material.pdb
+E:\StartUP menu\StartUP menu\bin\Debug\MahApps.Metro.IconPacks.Material.xml
+E:\StartUP menu\StartUP menu\obj\Debug\StartUP menu.csprojAssemblyReference.cache
+E:\StartUP menu\StartUP menu\obj\Debug\ButtonTheme.baml
+E:\StartUP menu\StartUP menu\obj\Debug\MainWindow.g.cs
+E:\StartUP menu\StartUP menu\obj\Debug\Member Main Menu.g.cs
+E:\StartUP menu\StartUP menu\obj\Debug\Staff Main Menu.g.cs
+E:\StartUP menu\StartUP menu\obj\Debug\StaffLogin.g.cs
+E:\StartUP menu\StartUP menu\obj\Debug\Window1.g.cs
+E:\StartUP menu\StartUP menu\obj\Debug\App.g.cs
+E:\StartUP menu\StartUP menu\obj\Debug\Login Interface_MarkupCompile.cache
+E:\StartUP menu\StartUP menu\obj\Debug\Login Interface_MarkupCompile.lref
+E:\StartUP menu\StartUP menu\obj\Debug\App.baml
+E:\StartUP menu\StartUP menu\obj\Debug\MainWindow.baml
+E:\StartUP menu\StartUP menu\obj\Debug\Member Main Menu.baml
+E:\StartUP menu\StartUP menu\obj\Debug\Staff Main Menu.baml
+E:\StartUP menu\StartUP menu\obj\Debug\StaffLogin.baml
+E:\StartUP menu\StartUP menu\obj\Debug\Window1.baml
+E:\StartUP menu\StartUP menu\obj\Debug\Login Interface.g.resources
+E:\StartUP menu\StartUP menu\obj\Debug\Login_Interface.Properties.Resources.resources
+E:\StartUP menu\StartUP menu\obj\Debug\StartUP menu.csproj.GenerateResource.cache
+E:\StartUP menu\StartUP menu\obj\Debug\StartUP menu.csproj.CopyComplete
+E:\StartUP menu\StartUP menu\obj\Debug\Login Interface.exe
+E:\StartUP menu\StartUP menu\obj\Debug\Login Interface.pdb
+C:\Users\amalm\source\repos\StartUP menu\StartUP menu\obj\Debug\Staff Register Window.g.cs
+C:\Users\amalm\source\repos\StartUP menu\StartUP menu\obj\Debug\Staff Register Window.baml
+E:\New folder\StartUP menu\StartUP menu\bin\Debug\Login Interface.exe.config
+E:\New folder\StartUP menu\StartUP menu\bin\Debug\Login Interface.exe
+E:\New folder\StartUP menu\StartUP menu\bin\Debug\Login Interface.pdb
+E:\New folder\StartUP menu\StartUP menu\bin\Debug\MahApps.Metro.IconPacks.Core.dll
+E:\New folder\StartUP menu\StartUP menu\bin\Debug\MahApps.Metro.IconPacks.Material.dll
+E:\New folder\StartUP menu\StartUP menu\bin\Debug\MahApps.Metro.IconPacks.Core.pdb
+E:\New folder\StartUP menu\StartUP menu\bin\Debug\MahApps.Metro.IconPacks.Core.xml
+E:\New folder\StartUP menu\StartUP menu\bin\Debug\MahApps.Metro.IconPacks.Material.pdb
+E:\New folder\StartUP menu\StartUP menu\bin\Debug\MahApps.Metro.IconPacks.Material.xml
+E:\New folder\StartUP menu\StartUP menu\obj\Debug\StartUP menu.csprojAssemblyReference.cache
+E:\New folder\StartUP menu\StartUP menu\obj\Debug\ButtonTheme.baml
+E:\New folder\StartUP menu\StartUP menu\obj\Debug\MainWindow.g.cs
+E:\New folder\StartUP menu\StartUP menu\obj\Debug\Member Main Menu.g.cs
+E:\New folder\StartUP menu\StartUP menu\obj\Debug\Staff Main Menu.g.cs
+E:\New folder\StartUP menu\StartUP menu\obj\Debug\Staff Register Window.g.cs
+E:\New folder\StartUP menu\StartUP menu\obj\Debug\StaffLogin.g.cs
+E:\New folder\StartUP menu\StartUP menu\obj\Debug\Window1.g.cs
+E:\New folder\StartUP menu\StartUP menu\obj\Debug\App.g.cs
+E:\New folder\StartUP menu\StartUP menu\obj\Debug\Login Interface_MarkupCompile.cache
+E:\New folder\StartUP menu\StartUP menu\obj\Debug\Login Interface_MarkupCompile.lref
+E:\New folder\StartUP menu\StartUP menu\obj\Debug\App.baml
+E:\New folder\StartUP menu\StartUP menu\obj\Debug\MainWindow.baml
+E:\New folder\StartUP menu\StartUP menu\obj\Debug\Member Main Menu.baml
+E:\New folder\StartUP menu\StartUP menu\obj\Debug\Staff Main Menu.baml
+E:\New folder\StartUP menu\StartUP menu\obj\Debug\Staff Register Window.baml
+E:\New folder\StartUP menu\StartUP menu\obj\Debug\StaffLogin.baml
+E:\New folder\StartUP menu\StartUP menu\obj\Debug\Window1.baml
+E:\New folder\StartUP menu\StartUP menu\obj\Debug\Login Interface.g.resources
+E:\New folder\StartUP menu\StartUP menu\obj\Debug\Login_Interface.Properties.Resources.resources
+E:\New folder\StartUP menu\StartUP menu\obj\Debug\StartUP menu.csproj.GenerateResource.cache
+E:\New folder\StartUP menu\StartUP menu\obj\Debug\StartUP menu.csproj.CopyComplete
+E:\New folder\StartUP menu\StartUP menu\obj\Debug\Login Interface.exe
+E:\New folder\StartUP menu\StartUP menu\obj\Debug\Login Interface.pdb
+E:\New folder\StartUP menu\StartUP menu\obj\Debug\Member Register Window.g.cs
+E:\New folder\StartUP menu\StartUP menu\obj\Debug\Member Register Window.baml
+C:\Users\amalm\source\repos\StartUP menu\StartUP menu\obj\Debug\Member Register Window.g.cs
+C:\Users\amalm\source\repos\StartUP menu\StartUP menu\obj\Debug\Member Register Window.baml

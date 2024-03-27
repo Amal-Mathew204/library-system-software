@@ -1,0 +1,340 @@
+C:\Users\amalm\source\repos\Library Bespoke Software\Library Bespoke Software\bin\Debug\Login Interface.exe.config
+C:\Users\amalm\source\repos\Library Bespoke Software\Library Bespoke Software\bin\Debug\Login Interface.exe
+C:\Users\amalm\source\repos\Library Bespoke Software\Library Bespoke Software\bin\Debug\Login Interface.pdb
+C:\Users\amalm\source\repos\Library Bespoke Software\Library Bespoke Software\bin\Debug\MahApps.Metro.IconPacks.Core.dll
+C:\Users\amalm\source\repos\Library Bespoke Software\Library Bespoke Software\bin\Debug\MahApps.Metro.IconPacks.Material.dll
+C:\Users\amalm\source\repos\Library Bespoke Software\Library Bespoke Software\bin\Debug\MahApps.Metro.IconPacks.Core.pdb
+C:\Users\amalm\source\repos\Library Bespoke Software\Library Bespoke Software\bin\Debug\MahApps.Metro.IconPacks.Core.xml
+C:\Users\amalm\source\repos\Library Bespoke Software\Library Bespoke Software\bin\Debug\MahApps.Metro.IconPacks.Material.pdb
+C:\Users\amalm\source\repos\Library Bespoke Software\Library Bespoke Software\bin\Debug\MahApps.Metro.IconPacks.Material.xml
+C:\Users\amalm\source\repos\Library Bespoke Software\Library Bespoke Software\obj\Debug\Library Bespoke Software.csproj.AssemblyReference.cache
+C:\Users\amalm\source\repos\Library Bespoke Software\Library Bespoke Software\obj\Debug\ButtonTheme.baml
+C:\Users\amalm\source\repos\Library Bespoke Software\Library Bespoke Software\obj\Debug\MainWindow.g.cs
+C:\Users\amalm\source\repos\Library Bespoke Software\Library Bespoke Software\obj\Debug\Member Main Menu.g.cs
+C:\Users\amalm\source\repos\Library Bespoke Software\Library Bespoke Software\obj\Debug\Member Register Window.g.cs
+C:\Users\amalm\source\repos\Library Bespoke Software\Library Bespoke Software\obj\Debug\Staff Main Menu.g.cs
+C:\Users\amalm\source\repos\Library Bespoke Software\Library Bespoke Software\obj\Debug\Staff Register Window.g.cs
+C:\Users\amalm\source\repos\Library Bespoke Software\Library Bespoke Software\obj\Debug\StaffLogin.g.cs
+C:\Users\amalm\source\repos\Library Bespoke Software\Library Bespoke Software\obj\Debug\App.g.cs
+C:\Users\amalm\source\repos\Library Bespoke Software\Library Bespoke Software\obj\Debug\Login Interface_MarkupCompile.cache
+C:\Users\amalm\source\repos\Library Bespoke Software\Library Bespoke Software\obj\Debug\Login Interface_MarkupCompile.lref
+C:\Users\amalm\source\repos\Library Bespoke Software\Library Bespoke Software\obj\Debug\App.baml
+C:\Users\amalm\source\repos\Library Bespoke Software\Library Bespoke Software\obj\Debug\MainWindow.baml
+C:\Users\amalm\source\repos\Library Bespoke Software\Library Bespoke Software\obj\Debug\Member Main Menu.baml
+C:\Users\amalm\source\repos\Library Bespoke Software\Library Bespoke Software\obj\Debug\Member Register Window.baml
+C:\Users\amalm\source\repos\Library Bespoke Software\Library Bespoke Software\obj\Debug\Staff Main Menu.baml
+C:\Users\amalm\source\repos\Library Bespoke Software\Library Bespoke Software\obj\Debug\Staff Register Window.baml
+C:\Users\amalm\source\repos\Library Bespoke Software\Library Bespoke Software\obj\Debug\StaffLogin.baml
+C:\Users\amalm\source\repos\Library Bespoke Software\Library Bespoke Software\obj\Debug\Login Interface.g.resources
+C:\Users\amalm\source\repos\Library Bespoke Software\Library Bespoke Software\obj\Debug\Login_Interface.Properties.Resources.resources
+C:\Users\amalm\source\repos\Library Bespoke Software\Library Bespoke Software\obj\Debug\Library Bespoke Software.csproj.GenerateResource.cache
+C:\Users\amalm\source\repos\Library Bespoke Software\Library Bespoke Software\obj\Debug\Library Bespoke Software.csproj.CoreCompileInputs.cache
+C:\Users\amalm\source\repos\Library Bespoke Software\Library Bespoke Software\obj\Debug\Library Bespoke Software.csproj.CopyComplete
+C:\Users\amalm\source\repos\Library Bespoke Software\Library Bespoke Software\obj\Debug\Login Interface.exe
+C:\Users\amalm\source\repos\Library Bespoke Software\Library Bespoke Software\obj\Debug\Login Interface.pdb
+C:\Users\amalm\source\repos\Library Bespoke Software\Library Bespoke Software\obj\Debug\MemberLogin.g.cs
+C:\Users\amalm\source\repos\Library Bespoke Software\Library Bespoke Software\obj\Debug\MemberLogin.baml
+H:\Library Bespoke Software\Library Bespoke Software\bin\Debug\Login Interface.exe.config
+H:\Library Bespoke Software\Library Bespoke Software\bin\Debug\Login Interface.exe
+H:\Library Bespoke Software\Library Bespoke Software\bin\Debug\Login Interface.pdb
+H:\Library Bespoke Software\Library Bespoke Software\bin\Debug\MahApps.Metro.IconPacks.Core.dll
+H:\Library Bespoke Software\Library Bespoke Software\bin\Debug\MahApps.Metro.IconPacks.Material.dll
+H:\Library Bespoke Software\Library Bespoke Software\bin\Debug\MahApps.Metro.IconPacks.Core.pdb
+H:\Library Bespoke Software\Library Bespoke Software\bin\Debug\MahApps.Metro.IconPacks.Core.xml
+H:\Library Bespoke Software\Library Bespoke Software\bin\Debug\MahApps.Metro.IconPacks.Material.pdb
+H:\Library Bespoke Software\Library Bespoke Software\bin\Debug\MahApps.Metro.IconPacks.Material.xml
+H:\Library Bespoke Software\Library Bespoke Software\obj\Debug\ButtonTheme.baml
+H:\Library Bespoke Software\Library Bespoke Software\obj\Debug\AccountAddedMessage.g.cs
+H:\Library Bespoke Software\Library Bespoke Software\obj\Debug\AddAccountMenu.g.cs
+H:\Library Bespoke Software\Library Bespoke Software\obj\Debug\DeleteAccountMenu.g.cs
+H:\Library Bespoke Software\Library Bespoke Software\obj\Debug\EditAccountMenu.g.cs
+H:\Library Bespoke Software\Library Bespoke Software\obj\Debug\MemberTablePage.g.cs
+H:\Library Bespoke Software\Library Bespoke Software\obj\Debug\NavigationPannelPages\Accounts Menu.g.cs
+H:\Library Bespoke Software\Library Bespoke Software\obj\Debug\AddBookMenu.g.cs
+H:\Library Bespoke Software\Library Bespoke Software\obj\Debug\Add Loan Menu.g.cs
+H:\Library Bespoke Software\Library Bespoke Software\obj\Debug\NavigationPannelPages\BookLoan_Menu.g.cs
+H:\Library Bespoke Software\Library Bespoke Software\obj\Debug\NavigationPannelPages\Books Menu.g.cs
+H:\Library Bespoke Software\Library Bespoke Software\obj\Debug\DeleteBookMenu.g.cs
+H:\Library Bespoke Software\Library Bespoke Software\obj\Debug\EditBookMenu.g.cs
+H:\Library Bespoke Software\Library Bespoke Software\obj\Debug\NavigationPannelPages\Email Menu.g.cs
+H:\Library Bespoke Software\Library Bespoke Software\obj\Debug\NavigationPannelPages\Home Menu.g.cs
+H:\Library Bespoke Software\Library Bespoke Software\obj\Debug\MainWindow.g.cs
+H:\Library Bespoke Software\Library Bespoke Software\obj\Debug\Member Main Menu.g.cs
+H:\Library Bespoke Software\Library Bespoke Software\obj\Debug\Member Register Window.g.cs
+H:\Library Bespoke Software\Library Bespoke Software\obj\Debug\NavigationPannelPages\Settings Menu.g.cs
+H:\Library Bespoke Software\Library Bespoke Software\obj\Debug\Staff Main Menu.g.cs
+H:\Library Bespoke Software\Library Bespoke Software\obj\Debug\Staff Register Window.g.cs
+H:\Library Bespoke Software\Library Bespoke Software\obj\Debug\StaffLogin.g.cs
+H:\Library Bespoke Software\Library Bespoke Software\obj\Debug\MemberLogin.g.cs
+H:\Library Bespoke Software\Library Bespoke Software\obj\Debug\StaffTablePage.g.cs
+H:\Library Bespoke Software\Library Bespoke Software\obj\Debug\ViewAccountMenu.g.cs
+H:\Library Bespoke Software\Library Bespoke Software\obj\Debug\ViewBookMenu.g.cs
+H:\Library Bespoke Software\Library Bespoke Software\obj\Debug\App.g.cs
+H:\Library Bespoke Software\Library Bespoke Software\obj\Debug\Login Interface_MarkupCompile.cache
+H:\Library Bespoke Software\Library Bespoke Software\obj\Debug\Login Interface_MarkupCompile.lref
+H:\Library Bespoke Software\Library Bespoke Software\obj\Debug\App.baml
+H:\Library Bespoke Software\Library Bespoke Software\obj\Debug\AccountAddedMessage.baml
+H:\Library Bespoke Software\Library Bespoke Software\obj\Debug\AddAccountMenu.baml
+H:\Library Bespoke Software\Library Bespoke Software\obj\Debug\DeleteAccountMenu.baml
+H:\Library Bespoke Software\Library Bespoke Software\obj\Debug\EditAccountMenu.baml
+H:\Library Bespoke Software\Library Bespoke Software\obj\Debug\MemberTablePage.baml
+H:\Library Bespoke Software\Library Bespoke Software\obj\Debug\NavigationPannelPages\Accounts Menu.baml
+H:\Library Bespoke Software\Library Bespoke Software\obj\Debug\AddBookMenu.baml
+H:\Library Bespoke Software\Library Bespoke Software\obj\Debug\Add Loan Menu.baml
+H:\Library Bespoke Software\Library Bespoke Software\obj\Debug\NavigationPannelPages\BookLoan_Menu.baml
+H:\Library Bespoke Software\Library Bespoke Software\obj\Debug\NavigationPannelPages\Books Menu.baml
+H:\Library Bespoke Software\Library Bespoke Software\obj\Debug\DeleteBookMenu.baml
+H:\Library Bespoke Software\Library Bespoke Software\obj\Debug\EditBookMenu.baml
+H:\Library Bespoke Software\Library Bespoke Software\obj\Debug\NavigationPannelPages\Email Menu.baml
+H:\Library Bespoke Software\Library Bespoke Software\obj\Debug\NavigationPannelPages\Home Menu.baml
+H:\Library Bespoke Software\Library Bespoke Software\obj\Debug\MainWindow.baml
+H:\Library Bespoke Software\Library Bespoke Software\obj\Debug\Member Main Menu.baml
+H:\Library Bespoke Software\Library Bespoke Software\obj\Debug\Member Register Window.baml
+H:\Library Bespoke Software\Library Bespoke Software\obj\Debug\NavigationPannelPages\Settings Menu.baml
+H:\Library Bespoke Software\Library Bespoke Software\obj\Debug\Staff Main Menu.baml
+H:\Library Bespoke Software\Library Bespoke Software\obj\Debug\Staff Register Window.baml
+H:\Library Bespoke Software\Library Bespoke Software\obj\Debug\StaffLogin.baml
+H:\Library Bespoke Software\Library Bespoke Software\obj\Debug\MemberLogin.baml
+H:\Library Bespoke Software\Library Bespoke Software\obj\Debug\StaffTablePage.baml
+H:\Library Bespoke Software\Library Bespoke Software\obj\Debug\ViewAccountMenu.baml
+H:\Library Bespoke Software\Library Bespoke Software\obj\Debug\ViewBookMenu.baml
+H:\Library Bespoke Software\Library Bespoke Software\obj\Debug\Login Interface.g.resources
+H:\Library Bespoke Software\Library Bespoke Software\obj\Debug\Login_Interface.Properties.Resources.resources
+H:\Library Bespoke Software\Library Bespoke Software\obj\Debug\Library Bespoke Software.csproj.GenerateResource.cache
+H:\Library Bespoke Software\Library Bespoke Software\obj\Debug\Library Bespoke Software.csproj.CoreCompileInputs.cache
+H:\Library Bespoke Software\Library Bespoke Software\obj\Debug\Library Bespoke Software.csproj.CopyComplete
+H:\Library Bespoke Software\Library Bespoke Software\obj\Debug\Login Interface.exe
+H:\Library Bespoke Software\Library Bespoke Software\obj\Debug\Login Interface.pdb
+D:\Library Bespoke Software\Library Bespoke Software\bin\Debug\Login Interface.exe.config
+D:\Library Bespoke Software\Library Bespoke Software\bin\Debug\Login Interface.exe
+D:\Library Bespoke Software\Library Bespoke Software\bin\Debug\Login Interface.pdb
+D:\Library Bespoke Software\Library Bespoke Software\bin\Debug\MahApps.Metro.IconPacks.Core.dll
+D:\Library Bespoke Software\Library Bespoke Software\bin\Debug\MahApps.Metro.IconPacks.Material.dll
+D:\Library Bespoke Software\Library Bespoke Software\bin\Debug\MahApps.Metro.IconPacks.Core.pdb
+D:\Library Bespoke Software\Library Bespoke Software\bin\Debug\MahApps.Metro.IconPacks.Core.xml
+D:\Library Bespoke Software\Library Bespoke Software\bin\Debug\MahApps.Metro.IconPacks.Material.pdb
+D:\Library Bespoke Software\Library Bespoke Software\bin\Debug\MahApps.Metro.IconPacks.Material.xml
+D:\Library Bespoke Software\Library Bespoke Software\obj\Debug\Library Bespoke Software.csprojAssemblyReference.cache
+D:\Library Bespoke Software\Library Bespoke Software\obj\Debug\ButtonTheme.baml
+D:\Library Bespoke Software\Library Bespoke Software\obj\Debug\AccountAddedMessage.g.cs
+D:\Library Bespoke Software\Library Bespoke Software\obj\Debug\AddAccountMenu.g.cs
+D:\Library Bespoke Software\Library Bespoke Software\obj\Debug\DeleteAccountMenu.g.cs
+D:\Library Bespoke Software\Library Bespoke Software\obj\Debug\EditAccountMenu.g.cs
+D:\Library Bespoke Software\Library Bespoke Software\obj\Debug\MemberTablePage.g.cs
+D:\Library Bespoke Software\Library Bespoke Software\obj\Debug\NavigationPannelPages\Accounts Menu.g.cs
+D:\Library Bespoke Software\Library Bespoke Software\obj\Debug\AddBookMenu.g.cs
+D:\Library Bespoke Software\Library Bespoke Software\obj\Debug\Add Loan Menu.g.cs
+D:\Library Bespoke Software\Library Bespoke Software\obj\Debug\NavigationPannelPages\BookLoan_Menu.g.cs
+D:\Library Bespoke Software\Library Bespoke Software\obj\Debug\NavigationPannelPages\Books Menu.g.cs
+D:\Library Bespoke Software\Library Bespoke Software\obj\Debug\DeleteBookMenu.g.cs
+D:\Library Bespoke Software\Library Bespoke Software\obj\Debug\EditBookMenu.g.cs
+D:\Library Bespoke Software\Library Bespoke Software\obj\Debug\NavigationPannelPages\Email Menu.g.cs
+D:\Library Bespoke Software\Library Bespoke Software\obj\Debug\NavigationPannelPages\Home Menu.g.cs
+D:\Library Bespoke Software\Library Bespoke Software\obj\Debug\MainWindow.g.cs
+D:\Library Bespoke Software\Library Bespoke Software\obj\Debug\Member Main Menu.g.cs
+D:\Library Bespoke Software\Library Bespoke Software\obj\Debug\Member Register Window.g.cs
+D:\Library Bespoke Software\Library Bespoke Software\obj\Debug\NavigationPannelPages\Settings Menu.g.cs
+D:\Library Bespoke Software\Library Bespoke Software\obj\Debug\Staff Main Menu.g.cs
+D:\Library Bespoke Software\Library Bespoke Software\obj\Debug\Staff Register Window.g.cs
+D:\Library Bespoke Software\Library Bespoke Software\obj\Debug\StaffLogin.g.cs
+D:\Library Bespoke Software\Library Bespoke Software\obj\Debug\MemberLogin.g.cs
+D:\Library Bespoke Software\Library Bespoke Software\obj\Debug\StaffTablePage.g.cs
+D:\Library Bespoke Software\Library Bespoke Software\obj\Debug\ViewAccountMenu.g.cs
+D:\Library Bespoke Software\Library Bespoke Software\obj\Debug\ViewBookMenu.g.cs
+D:\Library Bespoke Software\Library Bespoke Software\obj\Debug\App.g.cs
+D:\Library Bespoke Software\Library Bespoke Software\obj\Debug\Login Interface_MarkupCompile.cache
+D:\Library Bespoke Software\Library Bespoke Software\obj\Debug\Login Interface_MarkupCompile.lref
+D:\Library Bespoke Software\Library Bespoke Software\obj\Debug\App.baml
+D:\Library Bespoke Software\Library Bespoke Software\obj\Debug\AccountAddedMessage.baml
+D:\Library Bespoke Software\Library Bespoke Software\obj\Debug\AddAccountMenu.baml
+D:\Library Bespoke Software\Library Bespoke Software\obj\Debug\DeleteAccountMenu.baml
+D:\Library Bespoke Software\Library Bespoke Software\obj\Debug\EditAccountMenu.baml
+D:\Library Bespoke Software\Library Bespoke Software\obj\Debug\MemberTablePage.baml
+D:\Library Bespoke Software\Library Bespoke Software\obj\Debug\NavigationPannelPages\Accounts Menu.baml
+D:\Library Bespoke Software\Library Bespoke Software\obj\Debug\AddBookMenu.baml
+D:\Library Bespoke Software\Library Bespoke Software\obj\Debug\Add Loan Menu.baml
+D:\Library Bespoke Software\Library Bespoke Software\obj\Debug\NavigationPannelPages\BookLoan_Menu.baml
+D:\Library Bespoke Software\Library Bespoke Software\obj\Debug\NavigationPannelPages\Books Menu.baml
+D:\Library Bespoke Software\Library Bespoke Software\obj\Debug\DeleteBookMenu.baml
+D:\Library Bespoke Software\Library Bespoke Software\obj\Debug\EditBookMenu.baml
+D:\Library Bespoke Software\Library Bespoke Software\obj\Debug\NavigationPannelPages\Email Menu.baml
+D:\Library Bespoke Software\Library Bespoke Software\obj\Debug\NavigationPannelPages\Home Menu.baml
+D:\Library Bespoke Software\Library Bespoke Software\obj\Debug\MainWindow.baml
+D:\Library Bespoke Software\Library Bespoke Software\obj\Debug\Member Main Menu.baml
+D:\Library Bespoke Software\Library Bespoke Software\obj\Debug\Member Register Window.baml
+D:\Library Bespoke Software\Library Bespoke Software\obj\Debug\NavigationPannelPages\Settings Menu.baml
+D:\Library Bespoke Software\Library Bespoke Software\obj\Debug\Staff Main Menu.baml
+D:\Library Bespoke Software\Library Bespoke Software\obj\Debug\Staff Register Window.baml
+D:\Library Bespoke Software\Library Bespoke Software\obj\Debug\StaffLogin.baml
+D:\Library Bespoke Software\Library Bespoke Software\obj\Debug\MemberLogin.baml
+D:\Library Bespoke Software\Library Bespoke Software\obj\Debug\StaffTablePage.baml
+D:\Library Bespoke Software\Library Bespoke Software\obj\Debug\ViewAccountMenu.baml
+D:\Library Bespoke Software\Library Bespoke Software\obj\Debug\ViewBookMenu.baml
+D:\Library Bespoke Software\Library Bespoke Software\obj\Debug\Login Interface.g.resources
+D:\Library Bespoke Software\Library Bespoke Software\obj\Debug\Login_Interface.Properties.Resources.resources
+D:\Library Bespoke Software\Library Bespoke Software\obj\Debug\Library Bespoke Software.csproj.GenerateResource.cache
+D:\Library Bespoke Software\Library Bespoke Software\obj\Debug\Library Bespoke Software.csproj.CoreCompileInputs.cache
+D:\Library Bespoke Software\Library Bespoke Software\obj\Debug\Library Bespoke Software.csproj.CopyComplete
+D:\Library Bespoke Software\Library Bespoke Software\obj\Debug\Login Interface.exe
+D:\Library Bespoke Software\Library Bespoke Software\obj\Debug\Login Interface.pdb
+E:\Library Bespoke Software\Library Bespoke Software\obj\Debug\Library Bespoke Software.csproj.AssemblyReference.cache
+E:\Library Bespoke Software\Library Bespoke Software\obj\Debug\ButtonTheme.baml
+E:\Library Bespoke Software\Library Bespoke Software\obj\Debug\AccountAddedMessage.g.cs
+E:\Library Bespoke Software\Library Bespoke Software\obj\Debug\AddAccountMenu.g.cs
+E:\Library Bespoke Software\Library Bespoke Software\obj\Debug\DeleteAccountMenu.g.cs
+E:\Library Bespoke Software\Library Bespoke Software\obj\Debug\EditAccountMenu.g.cs
+E:\Library Bespoke Software\Library Bespoke Software\obj\Debug\Loan Menu.g.cs
+E:\Library Bespoke Software\Library Bespoke Software\obj\Debug\MemberBookMenu.g.cs
+E:\Library Bespoke Software\Library Bespoke Software\obj\Debug\MemberTablePage.g.cs
+E:\Library Bespoke Software\Library Bespoke Software\obj\Debug\NavigationPannelPages\Accounts Menu.g.cs
+E:\Library Bespoke Software\Library Bespoke Software\obj\Debug\AddBookMenu.g.cs
+E:\Library Bespoke Software\Library Bespoke Software\obj\Debug\Add Loan Menu.g.cs
+E:\Library Bespoke Software\Library Bespoke Software\obj\Debug\BookLoan_Menu.g.cs
+E:\Library Bespoke Software\Library Bespoke Software\obj\Debug\NavigationPannelPages\Books Menu.g.cs
+E:\Library Bespoke Software\Library Bespoke Software\obj\Debug\DeleteBookMenu.g.cs
+E:\Library Bespoke Software\Library Bespoke Software\obj\Debug\EditBookMenu.g.cs
+E:\Library Bespoke Software\Library Bespoke Software\obj\Debug\NavigationPannelPages\Email Menu.g.cs
+E:\Library Bespoke Software\Library Bespoke Software\obj\Debug\NavigationPannelPages\Home Menu.g.cs
+E:\Library Bespoke Software\Library Bespoke Software\obj\Debug\MainWindow.g.cs
+E:\Library Bespoke Software\Library Bespoke Software\obj\Debug\Member Main Menu.g.cs
+E:\Library Bespoke Software\Library Bespoke Software\obj\Debug\Member Register Window.g.cs
+E:\Library Bespoke Software\Library Bespoke Software\obj\Debug\NavigationPannelPages\Page1.g.cs
+E:\Library Bespoke Software\Library Bespoke Software\obj\Debug\NavigationPannelPages\Settings Menu.g.cs
+E:\Library Bespoke Software\Library Bespoke Software\obj\Debug\Staff Main Menu.g.cs
+E:\Library Bespoke Software\Library Bespoke Software\obj\Debug\Staff Register Window.g.cs
+E:\Library Bespoke Software\Library Bespoke Software\obj\Debug\StaffLogin.g.cs
+E:\Library Bespoke Software\Library Bespoke Software\obj\Debug\MemberLogin.g.cs
+E:\Library Bespoke Software\Library Bespoke Software\obj\Debug\StaffTablePage.g.cs
+E:\Library Bespoke Software\Library Bespoke Software\obj\Debug\ViewAccountMenu.g.cs
+E:\Library Bespoke Software\Library Bespoke Software\obj\Debug\ViewBookMenu.g.cs
+E:\Library Bespoke Software\Library Bespoke Software\obj\Debug\App.g.cs
+E:\Library Bespoke Software\Library Bespoke Software\obj\Debug\Login Interface_MarkupCompile.cache
+E:\Library Bespoke Software\Library Bespoke Software\obj\Debug\Login Interface_MarkupCompile.lref
+E:\Library Bespoke Software\Library Bespoke Software\bin\Debug\Login Interface.exe.config
+E:\Library Bespoke Software\Library Bespoke Software\bin\Debug\Login Interface.exe
+E:\Library Bespoke Software\Library Bespoke Software\bin\Debug\Login Interface.pdb
+E:\Library Bespoke Software\Library Bespoke Software\bin\Debug\MahApps.Metro.IconPacks.Core.dll
+E:\Library Bespoke Software\Library Bespoke Software\bin\Debug\MahApps.Metro.IconPacks.Material.dll
+E:\Library Bespoke Software\Library Bespoke Software\bin\Debug\MahApps.Metro.IconPacks.Core.pdb
+E:\Library Bespoke Software\Library Bespoke Software\bin\Debug\MahApps.Metro.IconPacks.Core.xml
+E:\Library Bespoke Software\Library Bespoke Software\bin\Debug\MahApps.Metro.IconPacks.Material.pdb
+E:\Library Bespoke Software\Library Bespoke Software\bin\Debug\MahApps.Metro.IconPacks.Material.xml
+E:\Library Bespoke Software\Library Bespoke Software\obj\Debug\App.baml
+E:\Library Bespoke Software\Library Bespoke Software\obj\Debug\AccountAddedMessage.baml
+E:\Library Bespoke Software\Library Bespoke Software\obj\Debug\AddAccountMenu.baml
+E:\Library Bespoke Software\Library Bespoke Software\obj\Debug\DeleteAccountMenu.baml
+E:\Library Bespoke Software\Library Bespoke Software\obj\Debug\EditAccountMenu.baml
+E:\Library Bespoke Software\Library Bespoke Software\obj\Debug\Loan Menu.baml
+E:\Library Bespoke Software\Library Bespoke Software\obj\Debug\MemberBookMenu.baml
+E:\Library Bespoke Software\Library Bespoke Software\obj\Debug\MemberTablePage.baml
+E:\Library Bespoke Software\Library Bespoke Software\obj\Debug\NavigationPannelPages\Accounts Menu.baml
+E:\Library Bespoke Software\Library Bespoke Software\obj\Debug\AddBookMenu.baml
+E:\Library Bespoke Software\Library Bespoke Software\obj\Debug\Add Loan Menu.baml
+E:\Library Bespoke Software\Library Bespoke Software\obj\Debug\BookLoan_Menu.baml
+E:\Library Bespoke Software\Library Bespoke Software\obj\Debug\NavigationPannelPages\Books Menu.baml
+E:\Library Bespoke Software\Library Bespoke Software\obj\Debug\DeleteBookMenu.baml
+E:\Library Bespoke Software\Library Bespoke Software\obj\Debug\EditBookMenu.baml
+E:\Library Bespoke Software\Library Bespoke Software\obj\Debug\NavigationPannelPages\Email Menu.baml
+E:\Library Bespoke Software\Library Bespoke Software\obj\Debug\NavigationPannelPages\Home Menu.baml
+E:\Library Bespoke Software\Library Bespoke Software\obj\Debug\MainWindow.baml
+E:\Library Bespoke Software\Library Bespoke Software\obj\Debug\Member Main Menu.baml
+E:\Library Bespoke Software\Library Bespoke Software\obj\Debug\Member Register Window.baml
+E:\Library Bespoke Software\Library Bespoke Software\obj\Debug\NavigationPannelPages\Page1.baml
+E:\Library Bespoke Software\Library Bespoke Software\obj\Debug\NavigationPannelPages\Settings Menu.baml
+E:\Library Bespoke Software\Library Bespoke Software\obj\Debug\Staff Main Menu.baml
+E:\Library Bespoke Software\Library Bespoke Software\obj\Debug\Staff Register Window.baml
+E:\Library Bespoke Software\Library Bespoke Software\obj\Debug\StaffLogin.baml
+E:\Library Bespoke Software\Library Bespoke Software\obj\Debug\MemberLogin.baml
+E:\Library Bespoke Software\Library Bespoke Software\obj\Debug\StaffTablePage.baml
+E:\Library Bespoke Software\Library Bespoke Software\obj\Debug\ViewAccountMenu.baml
+E:\Library Bespoke Software\Library Bespoke Software\obj\Debug\ViewBookMenu.baml
+E:\Library Bespoke Software\Library Bespoke Software\obj\Debug\Login Interface.g.resources
+E:\Library Bespoke Software\Library Bespoke Software\obj\Debug\Login_Interface.Properties.Resources.resources
+E:\Library Bespoke Software\Library Bespoke Software\obj\Debug\Library Bespoke Software.csproj.GenerateResource.cache
+E:\Library Bespoke Software\Library Bespoke Software\obj\Debug\Library Bespoke Software.csproj.CoreCompileInputs.cache
+E:\Library Bespoke Software\Library Bespoke Software\obj\Debug\Library Bespoke Software.csproj.CopyComplete
+E:\Library Bespoke Software\Library Bespoke Software\obj\Debug\Login Interface.exe
+E:\Library Bespoke Software\Library Bespoke Software\obj\Debug\Login Interface.pdb
+E:\Library Bespoke Software\Library Bespoke Software\obj\Debug\AddBookLoan.g.cs
+E:\Library Bespoke Software\Library Bespoke Software\obj\Debug\AddBookLoan.baml
+C:\Users\amalm\OneDrive\Library Bespoke Software\Library Bespoke Software\bin\Debug\Login Interface.exe.config
+C:\Users\amalm\OneDrive\Library Bespoke Software\Library Bespoke Software\bin\Debug\Login Interface.exe
+C:\Users\amalm\OneDrive\Library Bespoke Software\Library Bespoke Software\bin\Debug\Login Interface.pdb
+C:\Users\amalm\OneDrive\Library Bespoke Software\Library Bespoke Software\bin\Debug\MahApps.Metro.IconPacks.Core.dll
+C:\Users\amalm\OneDrive\Library Bespoke Software\Library Bespoke Software\bin\Debug\MahApps.Metro.IconPacks.Material.dll
+C:\Users\amalm\OneDrive\Library Bespoke Software\Library Bespoke Software\bin\Debug\MahApps.Metro.IconPacks.Core.pdb
+C:\Users\amalm\OneDrive\Library Bespoke Software\Library Bespoke Software\bin\Debug\MahApps.Metro.IconPacks.Core.xml
+C:\Users\amalm\OneDrive\Library Bespoke Software\Library Bespoke Software\bin\Debug\MahApps.Metro.IconPacks.Material.pdb
+C:\Users\amalm\OneDrive\Library Bespoke Software\Library Bespoke Software\bin\Debug\MahApps.Metro.IconPacks.Material.xml
+C:\Users\amalm\OneDrive\Library Bespoke Software\Library Bespoke Software\obj\Debug\Library Bespoke Software.csproj.AssemblyReference.cache
+C:\Users\amalm\OneDrive\Library Bespoke Software\Library Bespoke Software\obj\Debug\Library Bespoke Software.csproj.SuggestedBindingRedirects.cache
+C:\Users\amalm\OneDrive\Library Bespoke Software\Library Bespoke Software\obj\Debug\ButtonTheme.baml
+C:\Users\amalm\OneDrive\Library Bespoke Software\Library Bespoke Software\obj\Debug\AccountAddedMessage.g.cs
+C:\Users\amalm\OneDrive\Library Bespoke Software\Library Bespoke Software\obj\Debug\AddAccountMenu.g.cs
+C:\Users\amalm\OneDrive\Library Bespoke Software\Library Bespoke Software\obj\Debug\AddBookLoan.g.cs
+C:\Users\amalm\OneDrive\Library Bespoke Software\Library Bespoke Software\obj\Debug\DeleteAccountMenu.g.cs
+C:\Users\amalm\OneDrive\Library Bespoke Software\Library Bespoke Software\obj\Debug\EditAccountMenu.g.cs
+C:\Users\amalm\OneDrive\Library Bespoke Software\Library Bespoke Software\obj\Debug\Loan Menu.g.cs
+C:\Users\amalm\OneDrive\Library Bespoke Software\Library Bespoke Software\obj\Debug\MemberBookMenu.g.cs
+C:\Users\amalm\OneDrive\Library Bespoke Software\Library Bespoke Software\obj\Debug\MemberTablePage.g.cs
+C:\Users\amalm\OneDrive\Library Bespoke Software\Library Bespoke Software\obj\Debug\NavigationPannelPages\Accounts Menu.g.cs
+C:\Users\amalm\OneDrive\Library Bespoke Software\Library Bespoke Software\obj\Debug\AddBookMenu.g.cs
+C:\Users\amalm\OneDrive\Library Bespoke Software\Library Bespoke Software\obj\Debug\Add Loan Menu.g.cs
+C:\Users\amalm\OneDrive\Library Bespoke Software\Library Bespoke Software\obj\Debug\BookLoan_Menu.g.cs
+C:\Users\amalm\OneDrive\Library Bespoke Software\Library Bespoke Software\obj\Debug\NavigationPannelPages\Books Menu.g.cs
+C:\Users\amalm\OneDrive\Library Bespoke Software\Library Bespoke Software\obj\Debug\DeleteBookMenu.g.cs
+C:\Users\amalm\OneDrive\Library Bespoke Software\Library Bespoke Software\obj\Debug\EditBookMenu.g.cs
+C:\Users\amalm\OneDrive\Library Bespoke Software\Library Bespoke Software\obj\Debug\NavigationPannelPages\Email Menu.g.cs
+C:\Users\amalm\OneDrive\Library Bespoke Software\Library Bespoke Software\obj\Debug\NavigationPannelPages\Home Menu.g.cs
+C:\Users\amalm\OneDrive\Library Bespoke Software\Library Bespoke Software\obj\Debug\MainWindow.g.cs
+C:\Users\amalm\OneDrive\Library Bespoke Software\Library Bespoke Software\obj\Debug\Member Main Menu.g.cs
+C:\Users\amalm\OneDrive\Library Bespoke Software\Library Bespoke Software\obj\Debug\Member Register Window.g.cs
+C:\Users\amalm\OneDrive\Library Bespoke Software\Library Bespoke Software\obj\Debug\NavigationPannelPages\Page1.g.cs
+C:\Users\amalm\OneDrive\Library Bespoke Software\Library Bespoke Software\obj\Debug\NavigationPannelPages\Settings Menu.g.cs
+C:\Users\amalm\OneDrive\Library Bespoke Software\Library Bespoke Software\obj\Debug\Staff Main Menu.g.cs
+C:\Users\amalm\OneDrive\Library Bespoke Software\Library Bespoke Software\obj\Debug\Staff Register Window.g.cs
+C:\Users\amalm\OneDrive\Library Bespoke Software\Library Bespoke Software\obj\Debug\StaffLogin.g.cs
+C:\Users\amalm\OneDrive\Library Bespoke Software\Library Bespoke Software\obj\Debug\MemberLogin.g.cs
+C:\Users\amalm\OneDrive\Library Bespoke Software\Library Bespoke Software\obj\Debug\StaffTablePage.g.cs
+C:\Users\amalm\OneDrive\Library Bespoke Software\Library Bespoke Software\obj\Debug\ViewAccountMenu.g.cs
+C:\Users\amalm\OneDrive\Library Bespoke Software\Library Bespoke Software\obj\Debug\ViewBookMenu.g.cs
+C:\Users\amalm\OneDrive\Library Bespoke Software\Library Bespoke Software\obj\Debug\App.g.cs
+C:\Users\amalm\OneDrive\Library Bespoke Software\Library Bespoke Software\obj\Debug\Login Interface_MarkupCompile.cache
+C:\Users\amalm\OneDrive\Library Bespoke Software\Library Bespoke Software\obj\Debug\Login Interface_MarkupCompile.lref
+C:\Users\amalm\OneDrive\Library Bespoke Software\Library Bespoke Software\obj\Debug\App.baml
+C:\Users\amalm\OneDrive\Library Bespoke Software\Library Bespoke Software\obj\Debug\AccountAddedMessage.baml
+C:\Users\amalm\OneDrive\Library Bespoke Software\Library Bespoke Software\obj\Debug\AddAccountMenu.baml
+C:\Users\amalm\OneDrive\Library Bespoke Software\Library Bespoke Software\obj\Debug\AddBookLoan.baml
+C:\Users\amalm\OneDrive\Library Bespoke Software\Library Bespoke Software\obj\Debug\DeleteAccountMenu.baml
+C:\Users\amalm\OneDrive\Library Bespoke Software\Library Bespoke Software\obj\Debug\EditAccountMenu.baml
+C:\Users\amalm\OneDrive\Library Bespoke Software\Library Bespoke Software\obj\Debug\Loan Menu.baml
+C:\Users\amalm\OneDrive\Library Bespoke Software\Library Bespoke Software\obj\Debug\MemberBookMenu.baml
+C:\Users\amalm\OneDrive\Library Bespoke Software\Library Bespoke Software\obj\Debug\MemberTablePage.baml
+C:\Users\amalm\OneDrive\Library Bespoke Software\Library Bespoke Software\obj\Debug\NavigationPannelPages\Accounts Menu.baml
+C:\Users\amalm\OneDrive\Library Bespoke Software\Library Bespoke Software\obj\Debug\AddBookMenu.baml
+C:\Users\amalm\OneDrive\Library Bespoke Software\Library Bespoke Software\obj\Debug\Add Loan Menu.baml
+C:\Users\amalm\OneDrive\Library Bespoke Software\Library Bespoke Software\obj\Debug\BookLoan_Menu.baml
+C:\Users\amalm\OneDrive\Library Bespoke Software\Library Bespoke Software\obj\Debug\NavigationPannelPages\Books Menu.baml
+C:\Users\amalm\OneDrive\Library Bespoke Software\Library Bespoke Software\obj\Debug\DeleteBookMenu.baml
+C:\Users\amalm\OneDrive\Library Bespoke Software\Library Bespoke Software\obj\Debug\EditBookMenu.baml
+C:\Users\amalm\OneDrive\Library Bespoke Software\Library Bespoke Software\obj\Debug\NavigationPannelPages\Email Menu.baml
+C:\Users\amalm\OneDrive\Library Bespoke Software\Library Bespoke Software\obj\Debug\NavigationPannelPages\Home Menu.baml
+C:\Users\amalm\OneDrive\Library Bespoke Software\Library Bespoke Software\obj\Debug\MainWindow.baml
+C:\Users\amalm\OneDrive\Library Bespoke Software\Library Bespoke Software\obj\Debug\Member Main Menu.baml
+C:\Users\amalm\OneDrive\Library Bespoke Software\Library Bespoke Software\obj\Debug\Member Register Window.baml
+C:\Users\amalm\OneDrive\Library Bespoke Software\Library Bespoke Software\obj\Debug\NavigationPannelPages\Page1.baml
+C:\Users\amalm\OneDrive\Library Bespoke Software\Library Bespoke Software\obj\Debug\NavigationPannelPages\Settings Menu.baml
+C:\Users\amalm\OneDrive\Library Bespoke Software\Library Bespoke Software\obj\Debug\Staff Main Menu.baml
+C:\Users\amalm\OneDrive\Library Bespoke Software\Library Bespoke Software\obj\Debug\Staff Register Window.baml
+C:\Users\amalm\OneDrive\Library Bespoke Software\Library Bespoke Software\obj\Debug\StaffLogin.baml
+C:\Users\amalm\OneDrive\Library Bespoke Software\Library Bespoke Software\obj\Debug\MemberLogin.baml
+C:\Users\amalm\OneDrive\Library Bespoke Software\Library Bespoke Software\obj\Debug\StaffTablePage.baml
+C:\Users\amalm\OneDrive\Library Bespoke Software\Library Bespoke Software\obj\Debug\ViewAccountMenu.baml
+C:\Users\amalm\OneDrive\Library Bespoke Software\Library Bespoke Software\obj\Debug\ViewBookMenu.baml
+C:\Users\amalm\OneDrive\Library Bespoke Software\Library Bespoke Software\obj\Debug\Login Interface.g.resources
+C:\Users\amalm\OneDrive\Library Bespoke Software\Library Bespoke Software\obj\Debug\Login_Interface.Properties.Resources.resources
+C:\Users\amalm\OneDrive\Library Bespoke Software\Library Bespoke Software\obj\Debug\Library Bespoke Software.csproj.GenerateResource.cache
+C:\Users\amalm\OneDrive\Library Bespoke Software\Library Bespoke Software\obj\Debug\Library Bespoke Software.csproj.CoreCompileInputs.cache
+C:\Users\amalm\OneDrive\Library Bespoke Software\Library Bespoke Software\obj\Debug\Library Bespoke Software.csproj.CopyComplete
+C:\Users\amalm\OneDrive\Library Bespoke Software\Library Bespoke Software\obj\Debug\Login Interface.exe
+C:\Users\amalm\OneDrive\Library Bespoke Software\Library Bespoke Software\obj\Debug\Login Interface.pdb

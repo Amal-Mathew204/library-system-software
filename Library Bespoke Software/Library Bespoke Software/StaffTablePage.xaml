@@ -1,0 +1,171 @@
+﻿<Page x:Class="Login_Interface.StaffTablePage"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:Login_Interface"
+      mc:Ignorable="d" 
+      d:DesignHeight="450" d:DesignWidth="800"
+      Title="StaffTablePage">
+
+    <Grid>
+        <FlowDocumentScrollViewer Margin="0,70,0,0"  >
+            <FlowDocument ColumnWidth="800">
+
+                <Section>
+
+                    <Table x:Name="StaffTable">
+                        <Table.Columns>
+                            <TableColumn/>
+                            <TableColumn/>
+                            <TableColumn/>
+                            <TableColumn/>
+                            <TableColumn/>
+                            <TableColumn/>
+                        </Table.Columns>
+                        <TableRowGroup>
+                            <TableRow Background="CadetBlue">
+                                <TableCell>
+
+                                    <Paragraph>Staff</Paragraph>
+                                </TableCell>
+                                <TableCell>
+                                    <Paragraph>Password</Paragraph>
+                                </TableCell>
+                                <TableCell>
+
+                                    <Paragraph>Firstname</Paragraph>
+                                </TableCell>
+                                <TableCell>
+                                    <Paragraph>Surename</Paragraph>
+                                </TableCell>
+                                <TableCell>
+
+                                    <Paragraph>Date Of Birth</Paragraph>
+                                </TableCell>
+                                <TableCell>
+
+                                    <Paragraph>Occupation Role</Paragraph>
+                                </TableCell>
+
+                            </TableRow>
+
+                        </TableRowGroup>
+
+                        <TableRowGroup x:Name="StaffDataRowGroup" Background="White">
+
+                        </TableRowGroup>
+
+                    </Table>
+                </Section>
+
+
+
+
+            </FlowDocument>
+
+
+
+
+
+        </FlowDocumentScrollViewer>
+
+        <Grid x:Name="FilterPannel"  Height="50" Width="160" VerticalAlignment="Top" HorizontalAlignment="Right" Margin="0,20,10,0">
+
+            <Border Background="Black" CornerRadius="20" BorderThickness="2" BorderBrush="White">
+
+                <StackPanel HorizontalAlignment="Center">
+
+                    <ToggleButton Style="{StaticResource FilterStyle}" Height="50" Width="160" VerticalAlignment="Top" HorizontalAlignment="Center" Content="Filter Table" FontSize="20" FontWeight="DemiBold">
+
+
+
+                        <ToggleButton.Triggers>
+                            <EventTrigger RoutedEvent="ToggleButton.Unchecked">
+
+                                <BeginStoryboard>
+                                    <Storyboard x:Name="HideFilterPannel">
+                                        <DoubleAnimation Storyboard.TargetName="FilterPannel"
+                                                                     Storyboard.TargetProperty="Height"
+                                                                     BeginTime="0:0:0"
+                                                                     From="200" To="50"
+                                                                     Duration="0:0:0.2">
+                                        </DoubleAnimation>
+                                    </Storyboard>
+                                </BeginStoryboard>
+
+                            </EventTrigger>
+                            <EventTrigger RoutedEvent="ToggleButton.Checked">
+                                <BeginStoryboard>
+                                    <Storyboard x:Name="ShowFilterPannel">
+
+                                        <DoubleAnimation Storyboard.TargetName="FilterPannel"
+                                                                     Storyboard.TargetProperty="Height"
+                                                                     BeginTime="0:0:0"
+                                                                     From="50" To="200"
+                                                                     Duration="0:0:0.2">
+
+                                        </DoubleAnimation>
+
+                                    </Storyboard>
+                                </BeginStoryboard>
+                            </EventTrigger>
+                        </ToggleButton.Triggers>
+
+                    </ToggleButton>
+
+
+                    <StackPanel Margin="10,10,0,0">
+                        <StackPanel Orientation="Horizontal">
+
+                            <TextBlock Margin="0,10,0,0" Text="Firstname: " FontSize="12" Width="70" Foreground="White" Background="Transparent">
+
+                            </TextBlock>
+                            <TextBox BorderBrush="White" Background="Transparent" Width="60" Margin="2,10,0,0" Foreground="White"/>
+                        </StackPanel>
+
+                        <StackPanel Orientation="Horizontal">
+
+                            <TextBlock Margin="0,10,0,0" Text="Surename: " FontSize="12" Width="70" Foreground="White" Background="Transparent">
+
+                            </TextBlock>
+                            <TextBox BorderBrush="White" Background="Transparent" Width="60" Height="20" Margin="2,10,0,0" Foreground="White"/>
+                        </StackPanel>
+
+                        <StackPanel Orientation="Vertical">
+
+                            <TextBlock Margin="0,10,0,0" Text="Date Of Birth Range: " FontSize="12" Width="160" Foreground="White" Background="Transparent">
+
+                            </TextBlock>
+                            <StackPanel Orientation="Horizontal" Margin="0,5,0,0">
+                                <TextBox BorderBrush="White" Background="Transparent" Width="60" Margin="2,0,0,0" Foreground="White"/>
+                                <TextBlock Background="Transparent" Width="15" Margin="2,0,0,0" Foreground="White" Text="To"/>
+                                <TextBox BorderBrush="White" Background="Transparent" Width="60" Margin="0,0,0,0" Foreground="White"/>
+                            </StackPanel>
+
+
+                        </StackPanel>
+
+
+
+
+
+
+
+                    </StackPanel>
+
+
+
+                </StackPanel>
+
+
+
+
+            </Border>
+        </Grid>
+
+
+        
+
+    </Grid>
+</Page>

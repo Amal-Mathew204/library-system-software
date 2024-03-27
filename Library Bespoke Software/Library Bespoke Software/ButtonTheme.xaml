@@ -1,0 +1,153 @@
+﻿<ResourceDictionary xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+                    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+
+
+    <Style TargetType="ToggleButton" x:Key="FilterStyle">
+
+        <Setter Property="Background" Value="Transparent"/>
+        <Setter Property="Foreground" Value="White"/>
+        <Setter Property="FontFamily" Value="Helvetica"/>
+        <Setter Property="FontWeight" Value="Light"/>
+        <Setter Property="Template">
+
+            <Setter.Value>
+                <ControlTemplate TargetType="{x:Type ToggleButton}">
+                    <Border Background="{TemplateBinding Background}" CornerRadius="20"
+                                                                      BorderThickness="0"
+                                                                      BorderBrush="White">
+                        <ContentPresenter HorizontalAlignment="Center" VerticalAlignment="Center"/>
+
+
+                    </Border>
+                </ControlTemplate>
+            </Setter.Value>
+        </Setter>
+        <Style.Triggers>
+            <Trigger Property="IsChecked" Value="True">
+                <Setter Property="Background" Value="White"/>
+                <Setter Property="Opacity" Value="0.4"/>
+                <Setter Property="Foreground" Value="Orange"/>
+                <Setter Property="FontFamily" Value="Helvetica"/>
+                <Setter Property="FontWeight" Value="Light"/>
+
+
+            </Trigger>
+        </Style.Triggers>
+
+
+    </Style>
+    
+    
+    
+    
+    <Style TargetType="Button" x:Key="style1">
+        <Setter Property="Foreground" Value="White"/>
+        <Setter Property="FontFamily" Value="Helvetica"/>
+        <Setter Property="FontWeight" Value="Light"/>
+
+        <Setter Property="Background" Value="Transparent"/>
+        <Setter Property="Template">
+        
+            <Setter.Value>
+                <ControlTemplate TargetType="{x:Type Button}">
+                    <Border Background="{TemplateBinding Background}" CornerRadius="20"
+                                                                      BorderThickness="2"
+                                                                      BorderBrush="White">
+                        <ContentPresenter HorizontalAlignment="Center" VerticalAlignment="Center"/>
+
+
+                    </Border>
+                </ControlTemplate>
+            </Setter.Value>
+        </Setter>
+
+        <Style.Triggers>
+            <Trigger Property="IsMouseOver" Value="True">
+                <Setter Property="Background" Value="White"/>
+                <Setter Property="Opacity" Value="0.4"/>
+                <Setter Property="Foreground" Value="DeepSkyBlue"/>
+                <Setter Property="Cursor" Value="Hand"/>
+
+
+            </Trigger>
+        </Style.Triggers>
+    </Style>
+    <Style TargetType="Button" x:Key="style2">
+        <Setter Property="Foreground" Value="White"/>
+        <Setter Property="FontFamily" Value="Helvetica"/>
+        <Setter Property="FontWeight" Value="Light"/>
+
+        <Setter Property="Background" Value="Blue"/>
+        <Setter Property="Template">
+            <Setter.Value>
+                <ControlTemplate TargetType="{x:Type Button}">
+                    <Border Background="{TemplateBinding Background}" CornerRadius="20"
+                                                                      BorderThickness="2"
+                                                                      BorderBrush="White">
+                        <ContentPresenter HorizontalAlignment="Center" VerticalAlignment="Center"/>
+
+
+                    </Border>
+                </ControlTemplate>
+            </Setter.Value>
+        </Setter>
+
+        <Style.Triggers>
+            <Trigger Property="IsMouseOver" Value="True">
+                <Setter Property="Background" Value="White"/>
+                <Setter Property="Opacity" Value="0.4"/>
+                <Setter Property="Foreground" Value="DeepSkyBlue"/>
+
+            </Trigger>
+        </Style.Triggers>
+    </Style>
+
+    <ImageBrush x:Key="ToggleButton_Is_Mouse_Over"
+                    ImageSource="Images/ToggleMouseOver.png"/>
+    <Style x:Key="ToggleButton_Style" TargetType="{x:Type ToggleButton}">
+        <Setter Property="Template">
+
+            <Setter.Value>
+                <ControlTemplate TargetType="{x:Type ToggleButton}">
+
+                    <Border x:Name="border"
+                                BorderThickness="{TemplateBinding BorderThickness}"
+                                Background="{TemplateBinding Background}"
+                                SnapsToDevicePixels="True">
+
+
+                    </Border>
+
+                    <ControlTemplate.Triggers>
+
+                        <Trigger Property="IsMouseOver" Value="True">
+                            <Setter Property="Background"
+                                        TargetName="border"
+                                        Value="{StaticResource ToggleButton_Is_Mouse_Over}"/>
+                            <Setter Property="BorderBrush"
+                                        TargetName="border"
+                                        Value="{StaticResource ToggleButton_Is_Mouse_Over}"/>
+                            <Setter Property="Cursor" Value="Hand"/>
+                        </Trigger>
+
+                        <Trigger Property="IsChecked" Value="True">
+                            <Setter Property="Background"
+                                        TargetName="border"
+                                        Value="{StaticResource ToggleButton_Is_Mouse_Over}"/>
+
+                            <Setter Property="BorderBrush"
+                                        TargetName="border"
+                                        Value="{StaticResource ToggleButton_Is_Mouse_Over}"/>
+                        </Trigger>
+                    </ControlTemplate.Triggers>
+                </ControlTemplate>
+
+            </Setter.Value>
+
+        </Setter>
+    </Style>
+
+
+
+
+</ResourceDictionary>

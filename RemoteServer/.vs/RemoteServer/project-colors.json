@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "28d4f1bf-c6bd-45e2-9c17-2e39ebaff82c": {
+      "ProjectGuid": "28d4f1bf-c6bd-45e2-9c17-2e39ebaff82c",
+      "DisplayName": "RemoteServer",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

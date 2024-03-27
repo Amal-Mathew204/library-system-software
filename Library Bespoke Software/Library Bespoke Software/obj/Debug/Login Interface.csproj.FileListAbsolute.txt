@@ -1,0 +1,30 @@
+C:\Users\amalm\source\repos\Login Interface\Login Interface\obj\Debug\Login Interface.csproj.AssemblyReference.cache
+C:\Users\amalm\source\repos\Login Interface\Login Interface\obj\Debug\MainWindow.g.cs
+C:\Users\amalm\source\repos\Login Interface\Login Interface\obj\Debug\App.g.cs
+C:\Users\amalm\source\repos\Login Interface\Login Interface\obj\Debug\Login Interface_MarkupCompile.cache
+C:\Users\amalm\source\repos\Login Interface\Login Interface\obj\Debug\Login Interface_MarkupCompile.lref
+C:\Users\amalm\source\repos\Login Interface\Login Interface\bin\Debug\Login Interface.exe.config
+C:\Users\amalm\source\repos\Login Interface\Login Interface\bin\Debug\Login Interface.exe
+C:\Users\amalm\source\repos\Login Interface\Login Interface\bin\Debug\Login Interface.pdb
+C:\Users\amalm\source\repos\Login Interface\Login Interface\obj\Debug\MainWindow.baml
+C:\Users\amalm\source\repos\Login Interface\Login Interface\obj\Debug\Login Interface.g.resources
+C:\Users\amalm\source\repos\Login Interface\Login Interface\obj\Debug\Login_Interface.Properties.Resources.resources
+C:\Users\amalm\source\repos\Login Interface\Login Interface\obj\Debug\Login Interface.csproj.GenerateResource.cache
+C:\Users\amalm\source\repos\Login Interface\Login Interface\obj\Debug\Login Interface.csproj.CoreCompileInputs.cache
+C:\Users\amalm\source\repos\Login Interface\Login Interface\obj\Debug\Login Interface.exe
+C:\Users\amalm\source\repos\Login Interface\Login Interface\obj\Debug\Login Interface.pdb
+C:\Users\amalm\source\repos\StartUP menu\Login Interface\bin\Debug\Login Interface.exe.config
+C:\Users\amalm\source\repos\StartUP menu\Login Interface\bin\Debug\Login Interface.exe
+C:\Users\amalm\source\repos\StartUP menu\Login Interface\bin\Debug\Login Interface.pdb
+C:\Users\amalm\source\repos\StartUP menu\Login Interface\obj\Debug\Login Interface.csproj.AssemblyReference.cache
+C:\Users\amalm\source\repos\StartUP menu\Login Interface\obj\Debug\MainWindow.g.cs
+C:\Users\amalm\source\repos\StartUP menu\Login Interface\obj\Debug\App.g.cs
+C:\Users\amalm\source\repos\StartUP menu\Login Interface\obj\Debug\Login Interface_MarkupCompile.cache
+C:\Users\amalm\source\repos\StartUP menu\Login Interface\obj\Debug\Login Interface_MarkupCompile.lref
+C:\Users\amalm\source\repos\StartUP menu\Login Interface\obj\Debug\MainWindow.baml
+C:\Users\amalm\source\repos\StartUP menu\Login Interface\obj\Debug\Login Interface.g.resources
+C:\Users\amalm\source\repos\StartUP menu\Login Interface\obj\Debug\Login_Interface.Properties.Resources.resources
+C:\Users\amalm\source\repos\StartUP menu\Login Interface\obj\Debug\Login Interface.csproj.GenerateResource.cache
+C:\Users\amalm\source\repos\StartUP menu\Login Interface\obj\Debug\Login Interface.csproj.CoreCompileInputs.cache
+C:\Users\amalm\source\repos\StartUP menu\Login Interface\obj\Debug\Login Interface.exe
+C:\Users\amalm\source\repos\StartUP menu\Login Interface\obj\Debug\Login Interface.pdb

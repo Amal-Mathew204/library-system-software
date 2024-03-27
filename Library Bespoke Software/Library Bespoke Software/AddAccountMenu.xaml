@@ -1,0 +1,494 @@
+﻿<Page x:Class="Login_Interface.AddAccountMenu"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:Login_Interface"
+      mc:Ignorable="d" 
+      Background ="Transparent"
+      d:DesignHeight="450" d:DesignWidth="800"
+      Title="AddAccountMenu">
+
+    <Grid>
+        <Button x:Name="Back_button"
+                    Width="100" Height="40" 
+                    Style ="{StaticResource style1}"
+                    FontSize="15"
+                    FontWeight="Heavy"
+                    Content="Back"  
+                VerticalAlignment="Top" HorizontalAlignment="Left" Margin="20,20,0,0" Click="Back_button_Click"
+                   />
+        <TextBlock Height="100" Width="500" VerticalAlignment="Top" HorizontalAlignment="Center"
+                   Margin="0,25,0,0" Text="Add Accounts Menu" TextAlignment="Center" 
+                   FontStyle="Italic" FontWeight="Bold" Foreground="White" FontSize="45">
+        </TextBlock>
+        <TextBlock Height="100" Width="500" VerticalAlignment="Top" HorizontalAlignment="Center"
+                   Margin="0,30,0,0" Text="Add Accounts Menu" TextAlignment="Center" 
+                   FontStyle="Italic" FontWeight="Bold" Foreground="Orange" FontSize="45">
+        </TextBlock>
+
+
+        <StackPanel HorizontalAlignment="Left"  Margin="5,150,0,0" Width="310">
+            <TextBlock Height="100" Width="700" VerticalAlignment="Top" HorizontalAlignment="Center"
+                   Margin="0,0,0,0" Text="Choose An Account Type:" TextAlignment="Center" 
+                   FontStyle="Italic" FontWeight="Bold" Foreground="White" FontSize="25">
+            </TextBlock>
+
+            <StackPanel Orientation="Horizontal">
+
+                <Button x:Name="Staff_Account"
+                    Width="120" Height="40" 
+                    Style ="{StaticResource style1}"
+                    FontSize="15"
+                    FontWeight="Heavy"
+                    Content="Staff Account"  
+                VerticalAlignment="Top" HorizontalAlignment="Left" Click="Staff_Account_Click"/>
+                <Button x:Name="Member_Account"
+                    Width="150" Height="40" 
+                    Style ="{StaticResource style1}"
+                    FontSize="15"
+                    FontWeight="Heavy"
+                    Content="Member Account"  
+                    Margin="20,0,0,0"
+                VerticalAlignment="Top" HorizontalAlignment="Left" Click="Member_Account_Click"/>
+
+
+
+
+
+
+            </StackPanel>
+
+            <TextBlock x:Name="MessageBox" Foreground="White" FontSize="20" Margin="0,20,0,0" VerticalAlignment="Center" HorizontalAlignment="Center" FontWeight="DemiBold" FontStyle="Italic"/>
+
+        </StackPanel>
+
+
+
+        <Grid Margin="310,100,0,0" x:Name="MemberAccountInfo" Width="425">
+
+            <Border CornerRadius="10" Grid.RowSpan="2">
+                <Border.Background>
+                    <LinearGradientBrush>
+
+                        <GradientStop Color="#181735"  Offset="0.2"/>
+                        <GradientStop Color="Orange" Offset="0.5"/>
+                        <GradientStop Color="#181735 " Offset="0.8"/>
+                    </LinearGradientBrush>
+                </Border.Background>
+
+            </Border>
+
+
+            <StackPanel VerticalAlignment="Top" HorizontalAlignment="Center">
+
+                <TextBlock Text="Account Type: Member"
+                           FontWeight="Bold"
+                           FontStyle="Normal"
+                           FontFamily="Fonts/BebasNeue-Regular.ttf #Bebas Neue"
+                           FontSize="28"
+                           Foreground="White"
+                           HorizontalAlignment="Center"
+                           VerticalAlignment="Center"
+                           Margin="0,40,0,20"/>
+                <TextBlock Name="MemberError"
+                           Text="Password: 8 CharLength with Number/Upper/Lowercase Letters"
+                           FontWeight="Heavy"
+                           FontFamily="helvetica"
+                           FontSize="12"
+                           Foreground="White"
+                           HorizontalAlignment="Center"
+                           Margin="0,10,0,10"/>
+                <StackPanel HorizontalAlignment="Center">
+                    <TextBlock Text="Personal Information"
+                           FontWeight="Medium"
+                           FontFamily="helvetica"
+                           FontSize="20"
+                           Foreground="White"
+                           HorizontalAlignment="Center"
+                           VerticalAlignment="Center"
+                               Margin="0,20,0,10"/>
+
+
+                    <StackPanel Orientation="Horizontal" VerticalAlignment="Center">
+                        <StackPanel VerticalAlignment="Center">
+                            <TextBox x:Name="MemberFirstName"
+                                FontFamily="Helvetica"
+                           FontWeight="Light"
+                           Text ="FirstName"
+                           TextAlignment="Center"
+                           FontSize="18"
+                           HorizontalAlignment="Center"
+                           Foreground="White"
+                           Background="Transparent"
+                           BorderThickness="0"
+                         Width="130"
+                         HorizontalContentAlignment="Left"
+                         Opacity="0.5"
+                         Height="25"
+                         Margin="5,0,0,0" />
+                            <Border Width="130"
+                    Height="2"
+                    Background="White"
+                    Opacity="0.5"/>
+
+                        </StackPanel>
+
+
+                        <StackPanel VerticalAlignment="Center">
+                            <TextBox Name="MemberSurname"
+                           FontFamily="Helvetica"
+                           FontWeight="Light"
+                           Text ="Surname"
+                           TextAlignment="Center"
+                           FontSize="18"
+                           HorizontalAlignment="Center"
+                           Foreground="White"
+                           Background="Transparent"
+                           BorderThickness="0"
+                         Width="130"
+                         HorizontalContentAlignment="Left"
+                         Opacity="0.5"
+                         Height="25"
+                         Margin="10,0,0,0"/>
+                            <Border Width="130"
+                    Height="2"
+                    Background="White"
+                    Opacity="0.5"/>
+
+                        </StackPanel>
+                        <StackPanel >
+                            <StackPanel VerticalAlignment="Center" HorizontalAlignment="Center">
+                                <TextBox Name="MemberDOB"
+                                FontFamily="Helvetica"
+                           FontWeight="Light"
+                           Text ="DateOfBirth"
+                           TextAlignment="Center"
+                           FontSize="18"
+                           HorizontalAlignment="Center"
+                           Foreground="White"
+                           Background="Transparent"
+                           BorderThickness="0"
+                         Width="130"
+                         HorizontalContentAlignment="Center"
+                         Opacity="0.5"
+                         Height="25"
+                         Margin="10,0,0,0"/>
+                                <Border Width="130"
+                    Height="2"
+                    Background="White"
+                    Opacity="0.5"/>
+
+                            </StackPanel>
+                        </StackPanel>
+
+
+                    </StackPanel>
+
+                    <StackPanel Margin="0,20,0,0" HorizontalAlignment="Center">
+                        <TextBlock Text="Member Information"
+                           FontWeight="Medium"
+                           FontFamily="helvetica"
+                           FontSize="20"
+                           Foreground="White"
+                           HorizontalAlignment="Center"
+                           VerticalAlignment="Center"
+                               Margin="0,10,0,10"/>
+
+
+                        <StackPanel Orientation="Horizontal" >
+                            <StackPanel VerticalAlignment="Center">
+                                <TextBox x:Name="MemberUsername"
+                                    FontFamily="Helvetica"
+                           FontWeight="Light"
+                           Text ="Username"
+                           TextAlignment="Center"
+                           FontSize="18"
+                           HorizontalAlignment="Center"
+                           Foreground="White"
+                           Background="Transparent"
+                           BorderThickness="0"
+                         Width="180"
+                         HorizontalContentAlignment="Left"
+                         Opacity="0.5"
+                         Height="25"
+                         Margin="10,0,0,0"/>
+                                <Border Width="180"
+                    Height="2"
+                    Background="White"
+                    Opacity="0.5"/>
+
+                            </StackPanel>
+
+
+                            <StackPanel VerticalAlignment="Center">
+                                <TextBox Name ="MemberPassword" 
+                                         FontFamily="Helvetica"
+                           FontWeight="Light"
+                           Text ="Password"
+                           TextAlignment="Center"
+                           FontSize="18"
+                           HorizontalAlignment="Center"
+                           Foreground="White"
+                           Background="Transparent"
+                           BorderThickness="0"
+                         Width="180"
+                         HorizontalContentAlignment="Left"
+                         Opacity="0.5"
+                         Height="25"
+                         Margin="10,0,0,0"/>
+                                <Border Width="180"
+                    Height="2"
+                    Background="White"
+                    Opacity="0.5"/>
+
+                            </StackPanel>
+
+                        </StackPanel>
+
+
+
+                    </StackPanel>
+
+                </StackPanel>
+
+            </StackPanel>
+
+
+
+
+            <Button Grid.Row="1"
+                x:Name="MemberAddAccount"
+                    Width="125" Height="45" 
+                    Style ="{StaticResource style1}"
+                    FontSize="15"
+                    FontWeight="Heavy"
+                    Content="AddAccount" 
+                    VerticalAlignment="Bottom" HorizontalAlignment="Center"
+                   Margin="0,0,0,40" Click="MemberAddAccount_Click_1"  />
+
+
+
+
+
+
+        </Grid>
+        <Grid Margin="600,100,0,0" x:Name="StaffAccountInfo" Width="0">
+            <Grid.RowDefinitions>
+                <RowDefinition Height="151*"/>
+                <RowDefinition Height="24*"/>
+            </Grid.RowDefinitions>
+            <Border CornerRadius="10" Grid.RowSpan="2">
+                <Border.Background>
+                    <LinearGradientBrush>
+
+                        <GradientStop Color="#181735"  Offset="0.2"/>
+                        <GradientStop Color="Orange" Offset="0.5"/>
+                        <GradientStop Color="#181735 " Offset="0.8"/>
+                    </LinearGradientBrush>
+                </Border.Background>
+
+            </Border>
+
+
+            <StackPanel VerticalAlignment="Top" HorizontalAlignment="Center">
+
+                <TextBlock Text="Account Type: Staff"
+                           FontWeight="Bold"
+                           FontStyle="Normal"
+                           FontFamily="Fonts/BebasNeue-Regular.ttf #Bebas Neue"
+                           FontSize="28"
+                           Foreground="White"
+                           HorizontalAlignment="Center"
+                           VerticalAlignment="Center"
+                           Margin="0,40,0,20"/>
+                <TextBlock Name="StaffError"
+                           Text="Password: 8 CharLength with Number/Upper/Lowercase Letters"
+                           FontWeight="Heavy"
+                           FontFamily="helvetica"
+                           FontSize="12"
+                           Foreground="White"
+                           HorizontalAlignment="Center"
+                           Margin="0,10,0,10"/>
+                <StackPanel HorizontalAlignment="Center">
+                    <TextBlock Text="Personal Information"
+                           FontWeight="Medium"
+                           FontFamily="helvetica"
+                           FontSize="20"
+                           Foreground="White"
+                           HorizontalAlignment="Center"
+                           VerticalAlignment="Center"
+                               Margin="0,20,0,10"/>
+
+
+                    <StackPanel Orientation="Horizontal" VerticalAlignment="Center">
+                        <StackPanel VerticalAlignment="Center">
+                            <TextBox x:Name="StaffFirstName"
+                                FontFamily="Helvetica"
+                           FontWeight="Light"
+                           Text ="FirstName"
+                           TextAlignment="Center"
+                           FontSize="18"
+                           HorizontalAlignment="Center"
+                           Foreground="White"
+                           Background="Transparent"
+                           BorderThickness="0"
+                         Width="130"
+                         HorizontalContentAlignment="Left"
+                         Opacity="0.5"
+                         Height="25"
+                         Margin="5,0,0,0" />
+                            <Border Width="130"
+                    Height="2"
+                    Background="White"
+                    Opacity="0.5"/>
+
+                        </StackPanel>
+
+
+                        <StackPanel VerticalAlignment="Center">
+                            <TextBox Name="StaffSurname"
+                           FontFamily="Helvetica"
+                           FontWeight="Light"
+                           Text ="Surname"
+                           TextAlignment="Center"
+                           FontSize="18"
+                           HorizontalAlignment="Center"
+                           Foreground="White"
+                           Background="Transparent"
+                           BorderThickness="0"
+                         Width="130"
+                         HorizontalContentAlignment="Left"
+                         Opacity="0.5"
+                         Height="25"
+                         Margin="10,0,0,0"/>
+                            <Border Width="130"
+                    Height="2"
+                    Background="White"
+                    Opacity="0.5"/>
+
+                        </StackPanel>
+                        <StackPanel >
+                            <StackPanel VerticalAlignment="Center" HorizontalAlignment="Center">
+                                <TextBox Name="StaffDOB"
+                                FontFamily="Helvetica"
+                           FontWeight="Light"
+                           Text ="DateOfBirth"
+                           TextAlignment="Center"
+                           FontSize="18"
+                           HorizontalAlignment="Center"
+                           Foreground="White"
+                           Background="Transparent"
+                           BorderThickness="0"
+                         Width="130"
+                         HorizontalContentAlignment="Center"
+                         Opacity="0.5"
+                         Height="25"
+                         Margin="10,0,0,0"/>
+                                <Border Width="130"
+                    Height="2"
+                    Background="White"
+                    Opacity="0.5"/>
+
+                            </StackPanel>
+                        </StackPanel>
+
+
+                    </StackPanel>
+
+                    <StackPanel Margin="0,10,0,0" HorizontalAlignment="Center">
+                        <TextBlock Text="Staff Information"
+                           FontWeight="Medium"
+                           FontFamily="helvetica"
+                           FontSize="20"
+                           Foreground="White"
+                           HorizontalAlignment="Center"
+                           VerticalAlignment="Center"
+                               Margin="0,20,0,10"/>
+
+
+                        <StackPanel Orientation="Horizontal" >
+
+
+
+                            <StackPanel VerticalAlignment="Center">
+                                <TextBox Name ="StaffPassword" 
+                                         FontFamily="Helvetica"
+                           FontWeight="Light"
+                           Text ="Password"
+                           TextAlignment="Center"
+                           FontSize="18"
+                           HorizontalAlignment="Center"
+                           Foreground="White"
+                           Background="Transparent"
+                           BorderThickness="0"
+                         Width="180"
+                         HorizontalContentAlignment="Left"
+                         Opacity="0.5"
+                         Height="25"
+                         Margin="10,0,0,0"/>
+                                <Border Width="180"
+                    Height="2"
+                    Background="White"
+                    Opacity="0.5"/>
+
+                            </StackPanel>
+
+
+
+                            <StackPanel VerticalAlignment="Center">
+                                <TextBox Name ="StaffPosition" 
+                                         FontFamily="Helvetica"
+                           FontWeight="Light"
+                           Text ="Staff Position"
+                           TextAlignment="Center"
+                           FontSize="18"
+                           HorizontalAlignment="Center"
+                           Foreground="White"
+                           Background="Transparent"
+                           BorderThickness="0"
+                         Width="180"
+                         HorizontalContentAlignment="Left"
+                         Opacity="0.5"
+                         Height="25"
+                         Margin="10,0,0,0"/>
+                                <Border Width="180"
+                    Height="2"
+                    Background="White"
+                    Opacity="0.5"/>
+
+                            </StackPanel>
+
+
+
+                        </StackPanel>
+
+
+
+                    </StackPanel>
+
+                </StackPanel>
+
+            </StackPanel>
+
+
+
+
+            <Button
+                x:Name="StaffAddAccount"
+                    Width="124" Height="45" 
+                    Style ="{StaticResource style1}"
+                    FontSize="15"
+                    FontWeight="Heavy"
+                    Content="AddAccount" 
+                    VerticalAlignment="Bottom" HorizontalAlignment="Center"
+                    Grid.RowSpan="2" Click="StaffAddAccount_Click"
+                Margin="0,0,0,40"/>
+
+        </Grid>
+
+
+
+
+    </Grid>
+</Page>
